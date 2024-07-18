@@ -4,18 +4,26 @@
 
 ## Topics we are covering:
 
-1) [Learn About Network Protocols](./Learn_About_Network_Protocols/NetworkProtocol.md)
+- 🎓 [Learn About Network Protocols](./Learn_About_Network_Protocols/NetworkProtocol.md)
 
-    * Network Protocols
-    * What is Client Server Model
-    * Peer to Peer Model
-    * HTTP vs TCP vs UDP vs FTP vs SMTP(IMAP, POP)
-    * Examples
+    👏 Network Protocols<br>
+    👏 What is Client Server Model<br>
+    👏 Peer to Peer Model<br>
+    👏 HTTP vs TCP vs UDP vs FTP vs SMTP(IMAP, POP)<br>
+    👏 Examples<br>
 
-2) [CAP Theorem](./CAP_Theorem.md)
+- 🎓 [CAP Theorem](./CAP_Theorem.md)
     
-    * What is the CAP Theorem
-    * Consistency
-    * Availability
-    * Partition Tolerance
-    * Implementation of CAP theorem in Distributed Database Systems 
+    👏 What is the CAP Theorem<br>
+    👏 Consistency<br>
+    👏 Availability<br>
+    👏 Partition Tolerance<br>
+    👏 Implementation of CAP theorem in Distributed Database Systems<br> 
+
+- 🎓 Microservices Design Patterns
+    - [Part 1](./Microservices_Design_Patterns_Part1.md)
+    <br>
+    👏 Monolithic Architecture<br>
+    👏 Microservice Architecture<br>
+    👏 Microservice Phases<br>
+    👏 Decomposition Pattern in detailed<br>

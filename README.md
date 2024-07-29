@@ -26,3 +26,9 @@
     👏 Microservice Architecture<br>
     👏 Microservice Phases<br>
     👏 Decomposition Pattern in detailed<br>
+
+- 🎓 [Microservices Design Patterns Part 2](./Microservices_Design_Patterns_Part2.md)
+
+    👏 Strangler Pattern <br>
+    👏 Saga Pattern <br>
+    👏 CQRS Pattern <br>

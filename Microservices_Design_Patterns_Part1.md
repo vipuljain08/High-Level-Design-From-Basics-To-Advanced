@@ -89,9 +89,10 @@ Various strategies we can follow:
     - **Domain Model:** Ticket, Conversation, Message
     - **Responsibilities:** Handling customer inquiries, managing support tickets, responding to complaints
     - **Microservices:** Customer Support Service
+<br>    
+<br>
+```
+👏 Treating each major part of the domain as a separate bounded context in microservices architecture ensures that the system is well-organized, scalable, and maintainable.
     
-    ```
-    👏 Treating each major part of the domain as a separate bounded context in microservices architecture ensures that the system is well-organized, scalable, and maintainable.
-    
-    👏 By defining clear boundaries and responsibilities for each microservice, you can build a robust and flexible e-commerce application that can adapt to changing business requirements and handle complex interactions seamlessly.
-    ```
+👏 By defining clear boundaries and responsibilities for each microservice, you can build a robust and flexible e-commerce application that can adapt to changing business requirements and handle complex interactions seamlessly.
+```

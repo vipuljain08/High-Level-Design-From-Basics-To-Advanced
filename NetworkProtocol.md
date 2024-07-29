@@ -1,7 +1,7 @@
 ## What is Network Protocol
 Network Protocol is a way which defines rules to communicate over the network between two machines(Client and Server).
 
-![Client-Serve-Communication](./Client-Server.png)
+![Client-Serve-Communication](./assets/images/Client-Server.png)
 
 ## What is Client Server Model
 * The Client-server model is a distributed application structure that partitions tasks or workloads between the providers of a resource or service, called servers, and service requesters called clients. 

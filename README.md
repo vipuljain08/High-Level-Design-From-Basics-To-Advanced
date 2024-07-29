@@ -4,7 +4,7 @@
 
 ## Topics we are covering:
 
-- 🎓 [Learn About Network Protocols](./Learn_About_Network_Protocols/NetworkProtocol.md)
+- 🎓 [Learn About Network Protocols](./NetworkProtocol.md)
 
     👏 Network Protocols<br>
     👏 What is Client Server Model<br>
@@ -27,3 +27,9 @@
     👏 Microservice Architecture<br>
     👏 Microservice Phases<br>
     👏 Decomposition Pattern in detailed<br>
+
+    - [Part 2](./Microservices_Design_Patterns_Part2.md)
+    <br>
+    👏 Strangler Pattern<br>
+    👏 Saga Pattern<br>
+    👏 CQRS Pattern

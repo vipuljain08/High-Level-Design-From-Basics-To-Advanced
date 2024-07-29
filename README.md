@@ -20,16 +20,9 @@
     👏 Partition Tolerance<br>
     👏 Implementation of CAP theorem in Distributed Database Systems<br> 
 
-- 🎓 Microservices Design Patterns
-    - [Part 1](./Microservices_Design_Patterns_Part1.md)
-    <br>
+- 🎓 [Microservices Design Patterns Part 1](./Microservices_Design_Patterns_Part1.md)
+    
     👏 Monolithic Architecture<br>
     👏 Microservice Architecture<br>
     👏 Microservice Phases<br>
     👏 Decomposition Pattern in detailed<br>
-
-    - [Part 2](./Microservices_Design_Patterns_Part2.md)
-    <br>
-    👏 Strangler Pattern<br>
-    👏 Saga Pattern<br>
-    👏 CQRS Pattern
